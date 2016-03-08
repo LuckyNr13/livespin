@@ -1,5 +1,5 @@
 # This code is to extract and crop image sequence in each micropattern from the pattern media images by using template image.
-# author: Yingbo Li, Auguste Genovesio
+# author: Yingbo Li
 
 #! /users/biocomp/yb/envlyb/bin python
 

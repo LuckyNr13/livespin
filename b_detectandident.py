@@ -1,6 +1,6 @@
 # For image sequence of mitosis in each micropattern, this code could automatically identify the division time and angle
 # from 2 cells to 3 cells
-# author: Yingbo Li, France Rose, Auguste Genovesio
+# author: Yingbo Li, France Rose
 
 #! /import/bc_users/biocomp/yingboli/envlyb/bin python
 __author__ = 'yb'

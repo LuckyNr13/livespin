@@ -12,7 +12,7 @@ The remaining needed libraries can be installed through PIP this way after you i
 
 OpenCV is also required. 
 
-Then you can download the code by clicking the ZIP link on this webpage or by cloning the whole project using: git clone https://github.com/lantuzi/livespin
+Then you can download the code by clicking the ZIP link on this webpage or by cloning the whole project using: git clone https://github.com/biocompibens/livespin
 
 # Description:
   1. The library folder contains the functions used by the two main scripts below.
